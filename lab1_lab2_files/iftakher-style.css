@@ -1,0 +1,33 @@
+/*Royta CSS Document*/
+body {
+    background:lavender;
+    color:DarkSlateBlue;
+
+}
+
+a:link{ 
+    color:blueviolet;
+}
+a:visited{
+    color:grey;
+}
+a:active{
+    color:rgb(255, 255, 138);
+
+}
+a:hover {
+font-size:150%; background: lightgoldenrodyellow; font-family:'Times New Roman', Times, serif; color: purple; text-decoration:none;
+}
+
+.caution{
+    font-size:125%;
+    color:red;
+}
+
+table{
+    background:rgb(255, 216, 245);
+    color:rgb(178, 0, 98);
+}
+ul{
+    background:rgb(214, 214, 241);
+}
