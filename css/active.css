@@ -11,6 +11,35 @@ h1{
     padding: 20px;
 }
 
+h4{
+    color:black;
+    text-align: center;
+    padding: 20px;
+}
+
+h5{
+    color:white;
+    text-align: center;
+    padding: 20px;
+}
+
+h6{
+    color:pink;
+    text-align: center;
+    padding: 20px;
+}
+
+hr{
+    display: block;
+    color:#b8c1ec;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
 .about-us {
     margin-top: 30px;
     margin-bottom: 20px;
