@@ -54,3 +54,6 @@ hr{
     border-style: inset;
     border-width: 1px;
 }
+figure {
+    text-align: center;
+}
