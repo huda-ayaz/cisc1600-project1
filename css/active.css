@@ -226,3 +226,15 @@ nav{
     text-align:center;
     margin:30px;
 }
+
+.pic-fit {
+    object-position: 5px 10%;
+}
+
+.fig-huda {
+    background-color: #dba2aa;
+}
+
+.fig-royta {
+    background-color: #25293f;
+}
