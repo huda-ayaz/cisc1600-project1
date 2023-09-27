@@ -44,16 +44,3 @@ li {
     border-width: thin;
 }
 
-hr{
-    display: block;
-    color:#b8c1ec;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-    margin-left: auto;
-    margin-right: auto;
-    border-style: inset;
-    border-width: 1px;
-}
-figure {
-    text-align: center;
-}
